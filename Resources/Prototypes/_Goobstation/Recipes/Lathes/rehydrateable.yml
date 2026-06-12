@@ -175,3 +175,23 @@
   materials:
     Biomass: 70
     Plasma: 250
+
+- type: latheRecipe
+  id: AvaliCube # Triad
+  result: AvaliCube
+  categories:
+  - Species
+  completetime: 30
+  materials:
+    Biomass: 80
+    Plasma: 250
+
+- type: latheRecipe
+  id: HydrakinCube # Triad
+  result: HydrakinCube
+  categories:
+  - Species
+  completetime: 30
+  materials:
+    Biomass: 80
+    Plasma: 250
