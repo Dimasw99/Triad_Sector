@@ -160,7 +160,7 @@
   - type: Rehydratable
     possibleSpawns:
     - MobTajaranRandom
-
+# Triad changes
 - type: entity
   parent: MonkeyCube
   id: AvaliCube # Triad
@@ -172,9 +172,10 @@
 
 - type: entity
   parent: MonkeyCube
-  id: HydrakinCube # Triad
+  id: HydrakinCube
   name: hydrakin cube
   components:
   - type: Rehydratable
     possibleSpawns:
     - MobHydrakinRandom
+# End Triad
