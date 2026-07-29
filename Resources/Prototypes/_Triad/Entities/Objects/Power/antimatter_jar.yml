@@ -6,9 +6,9 @@
   components:
   - type: Item
     size: Normal
-    sprite: _Triad\Objects\Power\edison_ame_jar.rsi
+    sprite: _Triad/Objects/Power/edison_ame_jar.rsi
   - type: Sprite
-    sprite: _Triad\Objects\Power\edison_ame_jar.rsi
+    sprite: _Triad/Objects/Power/edison_ame_jar.rsi
     state: jar
   - type: AmeFuelContainer
     fuelAmount: 6400
